@@ -9,7 +9,7 @@ Target Agents: Agents that choose between compliance and defiance based on the s
 
 Usage
 To run the simulation, execute the main script:
-python simulation_script.py
+python mechanism_design.py
 
 The script will run the simulation for a predefined number of steps and output the behavior of agents at each step along with visualizations of their strategies and levels over time.
 
