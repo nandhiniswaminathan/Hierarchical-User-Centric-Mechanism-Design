@@ -1,4 +1,4 @@
-# Hierarchical-User-centric-Mechanism-Design
+# Hierarchical-User-Centric-Mechanism-Design
 
 This project, developed as part of academic research, simulates a multi-agent system where agents interact based on predefined strategies. The simulation aims to study the dynamics of decision-making processes in a controlled environment, incorporating three types of agents: CentralAgent, IntermediaryAgent, and TargetAgent. Each agent type has unique behaviors and strategies influenced by various parameters.
 
